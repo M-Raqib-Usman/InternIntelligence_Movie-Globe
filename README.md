@@ -1,16 +1,15 @@
-# movie_globe
+🎬Movie Globe
+A beautiful and responsive movie app built with Flutter, powered by a movie API like TMDb. Browse trending movies, search by title, and view detailed movie info — all in one place.
 
-A new Flutter project.
+✨ Features
+🔍 Search movies by title
 
-## Getting Started
+📈 View trending/popular movies
 
-This project is a starting point for a Flutter application.
+📝 Movie details: rating, overview, release date, genres
 
-A few resources to get you started if this is your first Flutter project:
+📱 Responsive and clean UI design
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🛠️ Tech Stack
+Framework: Flutter
+API: TMDb or other open movie API
