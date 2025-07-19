@@ -1,0 +1,2 @@
+C:/Users/Raqib/StudioProjects/movie_globe/android/app/.cxx/Debug/2f2c36v2/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Raqib/StudioProjects/movie_globe/android/app/.cxx/Debug/2f2c36v2/armeabi-v7a/CMakeFiles/rebuild_cache.dir

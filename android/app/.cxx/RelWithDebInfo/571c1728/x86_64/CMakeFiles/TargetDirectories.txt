@@ -1,0 +1,2 @@
+C:/Users/Raqib/StudioProjects/movie_globe/android/app/.cxx/RelWithDebInfo/571c1728/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Raqib/StudioProjects/movie_globe/android/app/.cxx/RelWithDebInfo/571c1728/x86_64/CMakeFiles/rebuild_cache.dir
